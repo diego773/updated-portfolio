@@ -1,0 +1,23 @@
+.header{
+  background: black;
+}
+.chimborazo {
+  max-width: 100%; 
+  margin-top: -100px;
+  background: cover;
+
+
+
+}
+.name {
+  font-size: 30px;
+  font-family: 'Poppins', sans-serif;
+  color: rgb(235, 199, 205);
+}
+
+.description {
+  font-family: 'Poppins', sans-serif;
+  color: silver;
+  font-size: 20px;
+ 
+}
