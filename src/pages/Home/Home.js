@@ -1,20 +1,28 @@
 import React from "react";
 import "./style.css";
-import chimborazo from "../../images/chimborazo.jpg"
+import diego from "../../images/diego.jpg"
 
 function Home() {
   return (
       <div className="header">
-        <div className="container">
-        </div>
-          <h1 className="name">Hi, my name is Diego</h1>
+        <div className="grid-container">
+         <h1 className="name">Hi, my name is Diego</h1>
           <p className="description">
             I'm a Full Stack Web Developer from Chicago, IL.
-        </p>
+          </p>
+            <div className="section">
+              <img
+                src={diego}
+                className="diego"
+              />
+        </div>
+        
+        </div>
       </div>
   );
 }
 
 
 export default Home;
+
 
