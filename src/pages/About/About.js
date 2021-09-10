@@ -11,7 +11,7 @@ function About() {
           My name is Diego Villarreal. I'm a Full Stack Web Developer graduate
           from Northwestern University Coding Bootcamp in Evanston, IL. I have
           front-end experience with HTML, CSS, JavaScript and React.js. I also
-          have back-end experience in Node.js, MoongoseDB.
+          have back-end experience in Node.js, MoongoDB.
         </p>
         <div className="section">
           <img
